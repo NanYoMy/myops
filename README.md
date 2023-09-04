@@ -18,8 +18,6 @@ An overview of proposed method:
 Visualization of different MyoPS results:
 <img src="./img/res.png" alt="" width="100%"  align="middle" />
 
-Visualization of transmurality:
-<img src="./img/transmul.png" alt="" width="100%"  align="middle" />
 
 
 ## Acknowledgement
