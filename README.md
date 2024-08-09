@@ -1,5 +1,4 @@
 # U-MyoPS
-Our manuscript is still under review. Source code will be released once the manusciript is accepted.
 
 # Abstract 
 Myocardial pathology segmentation (MyoPS) is critical for the risk stratification and treatment planning of myocardial infarction (MI). 
